@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\bin\Debug\net7.0\DownloaderTemplate.exe
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\bin\Debug\net7.0\DownloaderTemplate.deps.json
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\bin\Debug\net7.0\DownloaderTemplate.runtimeconfig.json
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\bin\Debug\net7.0\DownloaderTemplate.dll
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\bin\Debug\net7.0\DownloaderTemplate.pdb
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.AssemblyInfo.cs
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.dll
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\refint\DownloaderTemplate.dll
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.pdb
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\DownloaderTemplate.genruntimeconfig.cache
+C:\Users\danie\source\repos\DownloaderTemplate\DownloaderTemplate\obj\Debug\net7.0\ref\DownloaderTemplate.dll

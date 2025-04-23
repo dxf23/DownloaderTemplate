@@ -41,13 +41,13 @@ namespace ConsoleApp1
                         aura();
                         break;
                     case "4":
-                        exitapp();
-                        break;
-                    case "5":
                         surprise();
                         break;
-                    case "6":
+                    case "5":
                         surprise2();
+                        break;
+                    case "6":
+                        exitapp();
                         break;
                     default:
                         Console.WriteLine("Invalid choice. Press Enter to try again.");
